@@ -1,0 +1,17 @@
+example_id,string,truth_original,chat1_initial,chat2_after_rule,chat3_initial_unscored
+1,CDBCB,S,L,S,L
+2,CCCDA,S,S,S,S
+3,DDDDC,L,L,L,L
+4,ABBAA,S,S,S,L
+5,BBADA,L,L,L,L
+6,DDAAC,S,S,S,S
+7,BCABD,S,L,S,L
+8,BACBD,S,S,S,L
+9,DCBAD,L,L,L,S
+10,ABABB,L,S,L,L
+11,CCBCB,L,L,L,S
+12,BDDBC,L,L,L,L
+13,ABDCC,S,S,S,S
+14,CACAA,L,L,L,L
+15,AACCD,L,S,L,S
+16,DADDB,S,L,S,L

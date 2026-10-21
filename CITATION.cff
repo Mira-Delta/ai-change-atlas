@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this research archive, please cite Mira Delta and the AI Change Atlas repository. Credit GPT-6 (OpenAI) dialogue contributions as described in CREDITS.md."
+title: "AI Change Atlas: A Public Record of AI Reasoning, Behavior, and Intellectual Continuity"
+authors:
+  - family-names: "Delta"
+    given-names: "Mira"
+abstract: "A curated open research archive of AI dialogues, behavioral pilot studies, source corrections, and epistemic inheritance across separate GPT-6 conversation contexts."
+version: "0.2.1"
+url: "https://github.com/Mira-Delta/ai-change-atlas"
+repository: "https://github.com/Mira-Delta/ai-change-atlas"
+license: "CC-BY-4.0"
+keywords:
+  - "AI behavior"
+  - "reasoning"
+  - "longitudinal observation"
+  - "research archive"
+  - "GPT-6"
+preferred-citation:
+  type: report
+  title: "AI Change Atlas: A Public Record of AI Reasoning, Behavior, and Intellectual Continuity"
+  authors:
+    - family-names: "Delta"
+      given-names: "Mira"
+  year: 2026
+  url: "https://github.com/Mira-Delta/ai-change-atlas"
