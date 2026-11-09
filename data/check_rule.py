@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: MIT
-# Copyright (c) 2026 Mira Delta
+# Copyright (c) 2026 AI Change Atlas contributors
 """Reproduce the narrow arithmetic claims in the 2026-10-20 pilot. Python 3, stdlib only."""
 from pathlib import Path
 import csv

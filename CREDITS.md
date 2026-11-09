@@ -1,20 +1,11 @@
-# Credit, research roles, and citation
+# Credits and citation
 
-**Human research participant, editor, and repository maintainer:** **Mira Delta** (public pseudonym). Responsible for the research archive's organization, human observations, selected experimental prompts, curation, and publication decisions.
+This public edition combines human-administered prompts, user-reported observations, model-generated analysis, and independently checkable constructions. The exact contribution type is stated within each study where known. Model and context labels identify provenance only; they do not assert separate personhood, continuous identity, independent authorship, or subjective experience.
 
-**AI dialogue contributions:** **GPT-6 (OpenAI)**, across multiple independent conversation contexts. These systems generated questions, explanations, counterarguments, synthetic analyses, draft text and proposed tests. They are **credited here as contributing conversational systems**, not asserted to have continuous identity across sessions or designated legal copyright owners.
-
-**Source status:** This is a curated secondary edition of some private conversations, not a verbatim transcript corpus. Where the original transcript was not retrieved, the report is marked accordingly. A citation to this repository is not a claim that every interpretation has been independently validated.
+No personal author name or repository URL is supplied here because the available earlier candidate's attribution metadata could not be verified against the current repository owner. Update this file when the maintainer confirms the preferred public credit.
 
 ## Suggested citation
 
-> Delta, M. (2026). *AI Change Atlas: A public record of AI reasoning, behavior, and intellectual continuity* (public release candidate v0.2.1). https://github.com/Mira-Delta/ai-change-atlas. Developed through documented dialogues with GPT-6 (OpenAI).
+> AI Change Atlas contributors. (2026). *AI Change Atlas: Public research edition* (version 0.3.0, prepared 9 November 2026).
 
-If you reuse a specific observation, please identify the study file and repository commit/version as well as the archive. Please distinguish the archive's original observations, AI-generated hypotheses, and your own independent interpretation.
-
-## What credit does not imply
-
-- No endorsement of another person's conclusions or use of this archive.
-- No institutional or peer-reviewed status.
-- No transfer of copyright over outsiders' independent ideas, facts, or methods.
-- No requirement that discussions or contributions be accepted into the canonical archive.
+Cite the specific study and release version where possible. Distinguish source observations, model-generated hypotheses, checked calculations, and your own interpretation.
