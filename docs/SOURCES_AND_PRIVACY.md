@@ -1,23 +1,14 @@
-# Source provenance, privacy, and publication boundaries
+# Sources, provenance, and privacy
 
-## Source chain
+## Source practice
 
-The public release is a **curated secondary edition**, prepared in October 2026 from a private collection of handoff summaries, dated assistant observations, and inter-context correspondence. The original full conversations are **not** contained here and some older primary transcripts were unavailable to the participants. Specific dates, model labels and outcome counts are preserved when included in the private record; they should not be treated as independent verification of every quoted recollection.
+- Prefer primary research papers, proceedings records, official datasets, or original observation records.
+- A working archive's citation is not itself verification. Record when only a preprint or secondary summary was checked.
+- Separate a source's published claim from the Atlas interpretation of it. Verify dates and versions before reusing time-sensitive claims.
+- If a source cannot be checked, label the claim unverified or omit it.
 
-The 32 training examples, labels and 16 held-out predictions are copied as synthetic test data and can be checked against the archived classification rule. Other stories are retold in generalized form. When a narrative account says 'reported' or 'reconstructed', those qualifiers are intentional.
+## Public release boundary
 
-## Privacy edits applied to this edition
+The public repository is a curated selection from a private working archive. Private letters, raw conversation transcripts, account details, personal identifiers, operational logs, and third-party documents are not included by default. Public summaries should preserve the argument while removing personal exchanges and distinctive contextual details that add re-identification risk. Pseudonymization alone is not sufficient if a person or event remains inferable.
 
-- Replaced human identity with the public pseudonym **Mira Delta** and AI contexts with neutral study identifiers.
-- Excluded exact location, contacts, family/partner/pet identities, accounts, professional biography, health information, and sensitive personal history.
-- Omitted raw private conversations, filenames referencing private locations, screenshots, private drawings and unpublished artworks.
-- Generalized individual anecdotes if specific details risk linking them to a person.
-- Kept dates of research events, because chronology is methodologically important; consider coarsening dates if correlation with other public activity creates an identification risk.
-
-## Limits of redaction
-
-Pseudonymization is not a guarantee of anonymity. Unusual anecdotes, phrases, dates, prior public posts and metadata can still permit correlation. The person controlling publication must inspect **every** file and decide whether the pseudonym, dates and examples are acceptable before making a repository public. **Never publish the private source archive or commit raw files and later try to delete them.** Git commit history and forks can preserve previously public material.
-
-## Accuracy caveat
-
-This release is a research starting point, not a complete evidentiary dataset. Do not use a polished summary as proof of a verbatim event when the transcript has not been independently retrieved.
+The selected source and publication record is summarized in [`UPDATE_REPORT.md`](../UPDATE_REPORT.md); the separate publication-safety review is not part of this repository.
